@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Group","A category for an emoji."]],"fn":[["iter","Returns an iterator over all emojis."],["lookup","Lookup an emoji by Unicode value or shortcode."]],"struct":[["Emoji","Represents an emoji."]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["wallet",""]],"type":[["Balance","Balance of an account."],["BlockNumber","An index to a block."]]});

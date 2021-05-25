@@ -1,0 +1,1 @@
+initSidebarItems({"trait":[["OnBurnHandler","An asset burn handler"],["OnClaimHandler","An asset claim handler"],["OnTransferHandler","An asset transfer handler"]]});

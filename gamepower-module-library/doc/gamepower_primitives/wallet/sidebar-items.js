@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["WalletAssetData",""],["WalletClassData",""]],"type":[["ClaimId","Claim Id"],["ListingId","Listing Id"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["module",""]],"struct":[["ClassInfo","Class info"],["TokenInfo","Token info"]]});
